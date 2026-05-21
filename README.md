@@ -1,3 +1,5 @@
+> ⚠️ **Mirror** — This repository is mirrored from [GitLab](https://gitlab.com/opensecdevops/pre-commit). Please submit issues and merge requests there.
+
 # OSDO Pre-commit Hooks
 
 Configuraciones Docker-based para pre-commit hooks en múltiples lenguajes y frameworks.
